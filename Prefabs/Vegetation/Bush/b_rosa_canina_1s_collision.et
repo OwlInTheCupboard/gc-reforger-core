@@ -17,4 +17,10 @@ Tree : "{D7163D1B571F4C0C}Prefabs/Vegetation/Core/Bush_Base.et" {
    }
   }
  }
+ {
+  Tree : "{5C594649DBDD5EAE}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_2s.et" {
+   ID "669D604A71774478"
+   coords 0 0 0
+  }
+ }
 }
